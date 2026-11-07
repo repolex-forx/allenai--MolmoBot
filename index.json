@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "MolmoBot",
+  "versions": [
+    {
+      "commit": "33c0ca77bf6062a23d60ffd4a6859334c4a46d30",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:46:16.448457+00:00"
+    }
+  ]
+}
